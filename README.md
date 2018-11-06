@@ -1,4 +1,4 @@
-# AboutTimeLineWithCode
+AboutTimeLineWithCode
 copyright and copycoss</br>
 
 
@@ -8,6 +8,7 @@ copyright and copycoss</br>
 
 
 
+------------------------
 Family thinking i can't do it.</br>
 They thinking different.</br>
 My MoM and My Father MyClassMate.</br>
